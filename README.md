@@ -1,5 +1,11 @@
 # vue-reviews
 
+Проект разрабатывался для закрепления Vuex и взаимодействвия его с сервером через API. В качестве API был выбран json-server
+
+- Подгрузка игр, пользователей, отзывов
+- Сортировка списка юзеров
+- Переключение темной темы на JS+CSS, переключение табов с текстом отзывов
+
 ## Project setup
 
 ```
@@ -23,7 +29,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
